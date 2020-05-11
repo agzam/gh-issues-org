@@ -1,0 +1,3 @@
+A tiny experiment with magit-forge and org-element.el
+
+for now only works from within magit and for repos that are registered in forge DB (forge uses sql-lite and stores info about issues, pull-requests, etc. in it)
